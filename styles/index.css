@@ -21,12 +21,12 @@ header{
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
 }
 
-header .logo {
-    font-size: 5rem;
-
+header .logo_image {
+   
 }
 
-header .logo span {
+
+header .head_text {
     font-family:'Rouge Script', cursive;
     font-size: 50px;
     color: purple;
@@ -34,6 +34,17 @@ header .logo span {
 
 }
 
+header .navbar {
+    font-size: 20px;
+    padding:0 1.5rem;
+    color: purple; 
 
+
+}
+
+header .icons {
+    
+   
+}
 
     
