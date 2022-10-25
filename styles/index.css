@@ -1,0 +1,39 @@
+*{
+    margin:0; padding:0;
+    box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+    outline: none; border:none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .2s linear;
+}
+
+header{
+    position: fixed;
+    top:0; left:0; right:0;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(179,148,233,1) 100%);
+    padding:2rem 9%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1000;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+}
+
+header .logo {
+    font-size: 5rem;
+
+}
+
+header .logo span {
+    font-family:'Rouge Script', cursive;
+    font-size: 50px;
+    color: purple;
+    
+
+}
+
+
+
+    
