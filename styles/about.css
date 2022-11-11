@@ -1,0 +1,54 @@
+.heading{
+display: flex;
+align-items: center;
+margin-top: 20rem;
+color: #800080;
+justify-content: center;
+}
+.abt-para{
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 40px;
+padding-left: 20px;
+padding-right: 20px;
+letter-spacing: 2px;
+}
+.img-btn{
+position: relative;
+margin-top: 10rem;
+width: 100%;
+
+}
+.abt-btn{
+position: absolute;
+top: 50%;
+left: 25%;
+background-color: #800080;
+color: white;
+font-size: 16px;
+padding: 12px 24px;
+border: none;
+cursor: pointer;
+border-radius: 5px;
+text-align: center;
+}
+.abt-btn1{
+position: absolute;
+top: 50%;
+left: 40%;
+background-color: #800080;
+color: white;
+font-size: 16px;
+padding: 12px 24px;
+border: none;
+cursor: pointer;
+border-radius: 5px;
+text-align: center;
+}
+.abt-btn:hover{
+background-color: #dda0dd;
+}
+.abt-btn1:hover{
+background-color: #dda0dd;
+}
