@@ -1,3 +1,8 @@
+.main{
+background-image: url('../images/Namnlös\ design\ \(9\).png');
+background-size: cover;
+background-position: center;
+}
 .feed{
     display: flex;
     align-items: center;
